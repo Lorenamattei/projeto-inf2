@@ -57,3 +57,26 @@
      
      <h2><li>Mary Quant</li></h2>
      <br>
+        <img width="500" src="https://www.digitaletextil.com.br/blog/wp-content/uploads/2021/08/3.png" alt="Imagem da moda">
+     <h2><li>Criadora de duas peças icônicas na história da moda — a minissaia e a hot pant —, Mary Quant e suas criações ousadas foram responsáveis
+         por gerar um novo padrão na década de 1960. Afinal, o comprimento de 30cm da saia foi, no mínimo, motivo de alvoroço.
+         Além do mais, Quant produzia a minissaia com materiais baratos e coloridos, o que tornou a peça acessível. Nesse contexto, surgia
+         o estereótipo da mulher com roupas ousadas, jovem, magra e livre das vestimentas que escondiam o próprio corpo. Isso permitiu uma maior
+         exploração da sensualidade nos visuais. Com o sucesso da minissaia, Quant conseguiu produzir a peça em escala industrial, comercializando-a
+         ao redor do mundo. Durante a carreira, também desenvolveu lingeries, vestidos e até mesmo perfumes, maquiagens e produtos de cuidados com a pele, garantindo
+          seu espaço como uma das mulheres na moda que inspiram empreendedoras até hoje!</li></h2>
+          <h2><li>Miuccia Prada</li></h2>
+          <img width="500" src="https://www.digitaletextil.com.br/blog/wp-content/uploads/2021/08/1.png">
+          <h2><li>Miuccia Prada é, definitivamente, uma das maiores personalidades da moda na atualidade. Além de designer chefe
+            da marca italiana fundada pelo pai e que leva o sobrenome da família, a estilista fundou a label Miu Miu, em 1993.
+            Segundo a revista Forbes, Miuccia possui um patrimônio líquido de U$5,4bi. Além de estilista e empresária, é doutora
+            em ciências políticas, produtora de filmes e criadora da Fundação Prada, que defende e promove a arte contemporânea.O sucesso
+             gigantesco das criações da estilista se justifica, em grande parte, pelo seu posicionamento questionador
+             e não tradicional. Desde o início da carreira, Miuccia Prada contestava ideias conservadoras e padrões estéticos.
+             Ela, inclusive, criou e investiu no conceito ugly beauty — ou beleza feia — em suas coleções. Com peças ousadas e nada convencionais, a
+             estilista comunica em suas coleções um ideal despadronizado, explorando a imagem de uma mulher inteligente e arrojada.</li></h2>
+ 
+     
+ 
+ 
+</html>
